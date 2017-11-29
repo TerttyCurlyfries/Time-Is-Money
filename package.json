@@ -1,0 +1,39 @@
+{
+    "author": "Taylor Ertrachter",
+    "dependencies": {},
+    "keywords": [],
+    "name": "time-is-money",
+    "pebble": {
+        "displayName": "Time is Money - Money is Time",
+        "enableMultiJS": false,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "fonts/RobotoCondensed-Regular.ttf",
+                    "name": "ROBOTO_CONDENSED_24",
+                    "targetPlatforms": null,
+                    "type": "font"
+                },
+                {
+                    "file": "fonts/RobotoCondensed-Regular.ttf",
+                    "name": "ROBOTO_CONDENSED_16",
+                    "targetPlatforms": null,
+                    "type": "font"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "1e46daf6-17aa-4b83-9348-08565b3a6b3e",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
